@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/303692224.svg)](https://zenodo.org/badge/latestdoi/303692224)
+
 # PolSentiLex
 A Russian-language sentiment lexicon for social media discussions on political and social issues.
 
